@@ -13,7 +13,7 @@ I started this project to track my development as a programmer. Tackling these c
 Each folder in this repository represents a specific problem from LeetCode. Inside each folder, you will find:
 - `problem_statement.md`: A description of the problem.
 - `solution.py`: My Python solution to the problem.
-- `discussion.md`: My thoughts and analysis on the problem and the solution.
+- `problem_solution.md`: My thoughts and analysis on the problem and the solution.
 
 ## Problem Categories
 
