@@ -26,7 +26,7 @@ The problems are categorized based on their difficulty and the concepts they cov
 
 ## How to Navigate
 
-You can browse the repository by problem categories or check the `index.md` file for a complete list of problems with direct links to their respective folders.
+You can browse the repository by problem categories.
 
 ## Contributing
 
